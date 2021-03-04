@@ -1,5 +1,6 @@
 {
-  [
+  "shelters": [
+    {
       "id": "bellevue-animal-rescue",
       "city": "Bellevue",
       "state": "Washington",
