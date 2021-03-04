@@ -1,6 +1,6 @@
 {
   "Bellevue Animal Rescue": {
-      "id": "bellevue-animal-rescue",
+      "id": 1,
       "city": "Bellevue",
       "state": "Washington",
       "pets": [
@@ -33,7 +33,7 @@
     },
 
   "Dessin Animal Shelter": {
-    "id": "dessin-animal-shelter",
+    "id": 2,
     "city": "Honesdale",
     "state": "Pennsylvania",
     "pets": [
