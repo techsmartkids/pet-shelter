@@ -1,6 +1,6 @@
 {
-  "Bellevue Animal Rescue": {
-      "id": 1,
+  [
+      "id": "bellevue-animal-rescue",
       "city": "Bellevue",
       "state": "Washington",
       "pets": [
@@ -10,42 +10,38 @@
           "species": "dog",
           "age": "young",
           "breed": "bloodhound",
-          "color": "red",
-          "shelterId": "bellevue-animal-rescue"
+          "color": "red"
         }, {
           "id": 2,
           "name": "Esther",
           "species": "snake",
           "age": "adult",
           "breed": "ball python",
-          "color": "yellow-green",
-          "shelterId": "bellevue-animal-rescue"
+          "color": "yellow-green"
         }, {
           "id": 3,
           "name": "Jason",
           "species": "hermit crab",
           "age": "adult",
           "breed": "unknown",
-          "color": "orange",
-          "shelterId": "bellevue-animal-rescue"
+          "color": "orange"
         }
       ]
     },
-
-  "Dessin Animal Shelter": {
-    "id": 2,
-    "city": "Honesdale",
-    "state": "Pennsylvania",
-    "pets": [
-      {
-        "id": 4,
-        "name": "Kirby",
-        "species": "cat",
-        "age": "young",
-        "breed": "unknown",
-        "color": "black",
-        "shelterId": "dessin-animal-shelter"
-      }
-    ]
-  }
+    {
+      "id": "dessin-animal-shelter",
+      "city": "Honesdale",
+      "state": "Pennsylvania",
+      "pets": [
+        {
+          "id": 4,
+          "name": "Kirby",
+          "species": "cat",
+          "age": "young",
+          "breed": "unknown",
+          "color": "black"
+        }
+      ]
+    }
+  ]
 }
