@@ -1,32 +1,12 @@
 {
-  "Bellevue": {
-    "city": "Bellevue",
-    "state": "Washington",
-    "pets": [
-      {
-        "id": 1,
-        "name": "Fido",
-        "species": "dog",
-        "age": "young",
-        "breed": "bloodhound",
-        "color": "red"
-      }, {
-        "id": 2,
-        "name": "Esther",
-        "species": "snake",
-        "age": "adult",
-        "breed": "ball python",
-        "color": "yellow-green"
-      }, {
-        "id": 3,
-        "name": "Jason",
-        "species": "hermit crab",
-        "age": "adult",
-        "breed": "unknown",
-        "color": "orange"
-      }
-    ]
-  },
+  "shelters": [
+    {
+      "id": 1,
+      "shelter_name": "Bellevue Animal Rescue",
+      "city": "Bellevue",
+      "state": "Washington",
+    }
+  ],
   "pets": [
     {
       "id": 1,
@@ -34,21 +14,24 @@
       "species": "dog",
       "age": "young",
       "breed": "bloodhound",
-      "color": "red"
+      "color": "red",
+      "shelterId": 1
     }, {
       "id": 2,
       "name": "Esther",
       "species": "snake",
       "age": "adult",
       "breed": "ball python",
-      "color": "yellow-green"
+      "color": "yellow-green",
+      "shelterId": 1
     }, {
       "id": 3,
       "name": "Jason",
       "species": "hermit crab",
       "age": "adult",
       "breed": "unknown",
-      "color": "orange"
+      "color": "orange",
+      "shelterId": 1
     }
   ]
 }
