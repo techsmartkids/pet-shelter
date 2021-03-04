@@ -1,4 +1,32 @@
 {
+  "Bellevue": {
+    "city": "Bellevue",
+    "state": "Washington",
+    "pets": [
+      {
+        "id": 1,
+        "name": "Fido",
+        "species": "dog",
+        "age": "young",
+        "breed": "bloodhound",
+        "color": "red"
+      }, {
+        "id": 2,
+        "name": "Esther",
+        "species": "snake",
+        "age": "adult",
+        "breed": "ball python",
+        "color": "yellow-green"
+      }, {
+        "id": 3,
+        "name": "Jason",
+        "species": "hermit crab",
+        "age": "adult",
+        "breed": "unknown",
+        "color": "orange"
+      }
+    ]
+  },
   "pets": [
     {
       "id": 1,
