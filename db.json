@@ -1,0 +1,17 @@
+{
+  "pets": [
+    {
+      "name": "Fido",
+      "species": "dog",
+      "age": "young",
+      "breed": "bloodhound",
+      "color": "red"
+    }, {
+      "name": "Esther",
+      "species": "snake",
+      "age": "adult",
+      "breed": "ball python",
+      "color": "yellow-green"
+    }
+  ]
+}
