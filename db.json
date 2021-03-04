@@ -1,51 +1,51 @@
 {
-  "shelters": [
-    {
+  "Bellevue Animal Rescue": {
       "id": "bellevue-animal-rescue",
-      "shelter_name": "Bellevue Animal Rescue",
       "city": "Bellevue",
-      "state": "Washington"
+      "state": "Washington",
+      "pets": [
+        {
+          "id": 1,
+          "name": "Fido",
+          "species": "dog",
+          "age": "young",
+          "breed": "bloodhound",
+          "color": "red",
+          "shelterId": "bellevue-animal-rescue"
+        }, {
+          "id": 2,
+          "name": "Esther",
+          "species": "snake",
+          "age": "adult",
+          "breed": "ball python",
+          "color": "yellow-green",
+          "shelterId": "bellevue-animal-rescue"
+        }, {
+          "id": 3,
+          "name": "Jason",
+          "species": "hermit crab",
+          "age": "adult",
+          "breed": "unknown",
+          "color": "orange",
+          "shelterId": "bellevue-animal-rescue"
+        }
+      ]
     },
-    {
-      "id": "dessin-animal-shelter",
-      "shelter_name": "Dessin Animal Shelter",
-      "city": "Honesdale",
-      "state": "Pennsylvania"
-    }
-  ],
-  "pets": [
-    {
-      "id": 1,
-      "name": "Fido",
-      "species": "dog",
-      "age": "young",
-      "breed": "bloodhound",
-      "color": "red",
-      "shelterId": "bellevue-animal-rescue"
-    }, {
-      "id": 2,
-      "name": "Esther",
-      "species": "snake",
-      "age": "adult",
-      "breed": "ball python",
-      "color": "yellow-green",
-      "shelterId": "bellevue-animal-rescue"
-    }, {
-      "id": 3,
-      "name": "Jason",
-      "species": "hermit crab",
-      "age": "adult",
-      "breed": "unknown",
-      "color": "orange",
-      "shelterId": "bellevue-animal-rescue"
-    }, {
-      "id": 4,
-      "name": "Kirby",
-      "species": "cat",
-      "age": "young",
-      "breed": "unknown",
-      "color": "black",
-      "shelterId": "dessin-animal-shelter"
-    }
-  ]
+
+  "Dessin Animal Shelter": {
+    "id": "dessin-animal-shelter",
+    "city": "Honesdale",
+    "state": "Pennsylvania",
+    "pets": [
+      {
+        "id": 4,
+        "name": "Kirby",
+        "species": "cat",
+        "age": "young",
+        "breed": "unknown",
+        "color": "black",
+        "shelterId": "dessin-animal-shelter"
+      }
+    ]
+  }
 }
