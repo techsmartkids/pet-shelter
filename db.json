@@ -78,6 +78,93 @@
           "color": "orange"
         }
       ]
+    }, {
+      "id": "phoenix-desert-rescue",
+      "name": "Phoenix Desert Rescue",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "pets": [
+        {
+          "id": 1,
+          "name": "Tyson",
+          "species": "dog",
+          "gender": "male",
+          "spayed-neutered": true,
+          "age": "young",
+          "breed": "Boxer Mix",
+          "color": "red"
+        }, {
+          "id": 2,
+          "name": "Rocco",
+          "gender": "male",
+          "spayed-neutered": true,
+          "species": "dog",
+          "age": "adult",
+          "breed": "Pit Bull Terrier",
+          "color": "brown brindle"
+        }
+      ]
+    }, {
+      "id": "puppy-love",
+      "name": "Puppy Love",
+      "city": "Tucson",
+      "state": "Arizona",
+      "pets": [
+        {
+          "id": 1,
+          "name": "Zinnia",
+          "species": "dog",
+          "gender": "female",
+          "spayed-neutered": false,
+          "age": "young",
+          "breed": "Greate Pyrenees",
+          "color": "white"
+        }, {
+          "id": 2,
+          "name": "Snape",
+          "gender": "male",
+          "spayed-neutered": true,
+          "species": "cat",
+          "age": "adult",
+          "breed": "Siamese",
+          "color": "seal"
+        }
+      ]
+    }, {
+      "id": "Claws and Paws",
+      "name": "Puppy Love",
+      "city": "Los Angeles",
+      "state": "California",
+      "pets": [
+        {
+          "id": 1,
+          "name": "Dexter",
+          "species": "cat",
+          "gender": "male",
+          "spayed-neutered": true,
+          "age": "young",
+          "breed": "Dexter",
+          "color": "orange"
+        }, {
+          "id": 2,
+          "name": "Behati",
+          "gender": "female",
+          "spayed-neutered": true,
+          "species": "cat",
+          "age": "young",
+          "breed": "Short Hair",
+          "color": "black"
+        }, {
+          "id": 3,
+          "name": "Gabriel",
+          "gender": "female",
+          "spayed-neutered": false,
+          "species": "cat",
+          "age": "young",
+          "breed": "Long Hair",
+          "color": "black"
+        }
+      ]
     }
   ]
 }
