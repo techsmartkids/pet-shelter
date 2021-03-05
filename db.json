@@ -10,6 +10,8 @@
           "id": 1,
           "name": "Fido",
           "species": "dog",
+          "gender": "male",
+          "spayed-neutered": true,
           "age": "young",
           "breed": "bloodhound",
           "color": "red"
@@ -17,6 +19,8 @@
           "id": 2,
           "name": "Esther",
           "species": "snake",
+          "gender": "female",
+          "spayed-neutered": false,
           "age": "adult",
           "breed": "ball python",
           "color": "yellow-green"
@@ -24,25 +28,54 @@
           "id": 3,
           "name": "Jason",
           "species": "hermit crab",
+          "gender": "male",
+          "spayed-neutered": false,
           "age": "adult",
           "breed": "unknown",
           "color": "orange"
         }
       ]
-    },
-    {
+    }, {
       "id": "dessin-animal-shelter",
       "name": "Dessin Animal Shelter",
       "city": "Honesdale",
       "state": "Pennsylvania",
       "pets": [
         {
-          "id": 4,
+          "id": 1,
           "name": "Kirby",
           "species": "cat",
+          "gender": "male",
+          "spayed-neutered": true,
           "age": "young",
           "breed": "unknown",
           "color": "black"
+        }
+      ]
+    }, {
+      "id": "kirkland-shelter",
+      "name": "Kirkland Shelter",
+      "city": "Kirkland",
+      "state": "Washington",
+      "pets": [
+        {
+          "id": 1,
+          "name": "Bastet",
+          "species": "cat",
+          "gender": "female",
+          "spayed-neutered": true,
+          "age": "young",
+          "breed": "Abyssinian",
+          "color": "red"
+        }, {
+          "id": 2,
+          "name": "Potato",
+          "gender": "male",
+          "spayed-neutered": true,
+          "species": "dog",
+          "age": "elderly",
+          "breed": "Corgi",
+          "color": "orange"
         }
       ]
     }
