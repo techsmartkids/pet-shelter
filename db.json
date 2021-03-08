@@ -1,59 +1,6 @@
 {
   "shelters": [
     {
-      "id": "bellevue-animal-rescue",
-      "name": "Bellevue Animal Rescue",
-      "city": "Bellevue",
-      "state": "Washington",
-      "pets": [
-        {
-          "id": 1,
-          "name": "Fido",
-          "species": "dog",
-          "gender": "male",
-          "spayed-neutered": true,
-          "age": "young",
-          "breed": "bloodhound",
-          "color": "red"
-        }, {
-          "id": 2,
-          "name": "Esther",
-          "species": "snake",
-          "gender": "female",
-          "spayed-neutered": false,
-          "age": "adult",
-          "breed": "ball python",
-          "color": "yellow-green"
-        }, {
-          "id": 3,
-          "name": "Jason",
-          "species": "hermit crab",
-          "gender": "male",
-          "spayed-neutered": false,
-          "age": "adult",
-          "breed": "unknown",
-          "color": "orange"
-        }
-      ]
-    }, {
-      "id": "dessin-animal-shelter",
-      "name": "Dessin Animal Shelter",
-      "city": "Honesdale",
-      "state": "Pennsylvania",
-      "pets": [
-        {
-          "id": 1,
-          "name": "Kirby",
-          "species": "cat",
-          "gender": "male",
-          "spayed-neutered": true,
-          "age": "young",
-          "breed": "unknown",
-          "color": "black"
-        }
-      ]
-    }, {
-      "id": "kirkland-shelter",
       "name": "Kirkland Shelter",
       "city": "Kirkland",
       "state": "Washington",
@@ -79,7 +26,6 @@
         }
       ]
     }, {
-      "id": "phoenix-desert-rescue",
       "name": "Phoenix Desert Rescue",
       "city": "Phoenix",
       "state": "Arizona",
@@ -105,7 +51,6 @@
         }
       ]
     }, {
-      "id": "puppy-love",
       "name": "Puppy Love",
       "city": "Tucson",
       "state": "Arizona",
@@ -131,7 +76,6 @@
         }
       ]
     }, {
-      "id": "claws-and-paws",
       "name": "Claws and Paws",
       "city": "Los Angeles",
       "state": "California",
@@ -154,19 +98,9 @@
           "age": "young",
           "breed": "Short Hair",
           "color": "black"
-        }, {
-          "id": 3,
-          "name": "Gabriel",
-          "gender": "female",
-          "spayed-neutered": false,
-          "species": "cat",
-          "age": "young",
-          "breed": "Long Hair",
-          "color": "black"
         }
       ]
     }, {
-      "id": "alley-cat-allies",
       "name": "Alley Cat Allies",
       "city": "San Francisco",
       "state": "California",
@@ -182,15 +116,6 @@
           "color": "black"
         }, {
           "id": 2,
-          "name": "Silky",
-          "gender": "female",
-          "spayed-neutered": true,
-          "species": "cat",
-          "age": "adult",
-          "breed": "Short Hair",
-          "color": "black"
-        }, {
-          "id": 3,
           "name": "Buttons",
           "gender": "male",
           "spayed-neutered": true,
@@ -201,7 +126,6 @@
         }
       ]
     }, {
-      "id": "cs-humane-shelter",
       "name": "Colorado Springs Humane Shelter",
       "city": "Colorado Springs",
       "state": "Colorado",
@@ -217,15 +141,6 @@
           "color": "tan"
         }, {
           "id": 2,
-          "name": "Desdemona",
-          "gender": "female",
-          "spayed-neutered": true,
-          "species": "cat",
-          "age": "adult",
-          "breed": "Short Hair",
-          "color": "black"
-        }, {
-          "id": 3,
           "name": "Curly",
           "gender": "male",
           "spayed-neutered": true,
@@ -236,42 +151,6 @@
         }
       ]
     }, {
-      "id": "ispca-rescue-of-boulder",
-      "name": "ISPCA Rescue of Boulder",
-      "city": "Colorado Springs",
-      "state": "Colorado",
-      "pets": [
-        {
-          "id": 1,
-          "name": "Rex",
-          "species": "bearded dragon",
-          "gender": "male",
-          "spayed-neutered": false,
-          "age": "adult",
-          "breed": "unknown",
-          "color": "tan"
-        }, {
-          "id": 2,
-          "name": "Desdemona",
-          "gender": "female",
-          "spayed-neutered": true,
-          "species": "cat",
-          "age": "adult",
-          "breed": "Short Hair",
-          "color": "black"
-        }, {
-          "id": 3,
-          "name": "Curly",
-          "gender": "male",
-          "spayed-neutered": true,
-          "species": "dog",
-          "age": "young",
-          "breed": "Labradoodle",
-          "color": "apricot"
-        }
-      ]
-    }, {
-      "id": "pittie-pals",
       "name": "Pittie Pals",
       "city": "Chicago",
       "state": "Illinois",
@@ -280,7 +159,7 @@
           "id": 1,
           "name": "Dusty",
           "species": "dog",
-          "gender": "male",
+          "gender": "female",
           "spayed-neutered": true,
           "age": "adult",
           "breed": "Pit Bull",
@@ -294,19 +173,9 @@
           "age": "young",
           "breed": "Pit Bull Boxer mix",
           "color": "brown"
-        }, {
-          "id": 3,
-          "name": "Lola",
-          "gender": "female",
-          "spayed-neutered": true,
-          "species": "dog",
-          "age": "adult",
-          "breed": "Pit Bull",
-          "color": "black and white"
         }
       ]
     }, {
-      "id": "rockford-rescue-center",
       "name": "Rockford Rescue Center",
       "city": "Rockford",
       "state": "Illinois",
@@ -332,42 +201,6 @@
         }
       ]
     }, {
-      "id": "hopeful-hearts-animal-shelter",
-      "name": "Hopeful Hearts Animal Shelter",
-      "city": "Portland",
-      "state": "Oregon",
-      "pets": [
-        {
-          "id": 1,
-          "name": "Tiny",
-          "species": "ball python",
-          "gender": "male",
-          "spayed-neutered": false,
-          "age": "adult",
-          "breed": "unknown",
-          "color": "green and brown"
-        }, {
-          "id": 2,
-          "name": "Supreme",
-          "gender": "female",
-          "spayed-neutered": true,
-          "species": "cat",
-          "age": "adult",
-          "breed": "Maine Coon",
-          "color": "brown"
-        }, {
-          "id": 3,
-          "name": "Snowy",
-          "gender": "male",
-          "spayed-neutered": true,
-          "species": "cat",
-          "age": "young",
-          "breed": "Persian",
-          "color": "white"
-        }
-      ]
-    }, {
-      "id": "new-beginnings",
       "name": "New Beginnings",
       "city": "Bend",
       "state": "Oregon",
@@ -393,7 +226,6 @@
         }
       ]
     }, {
-      "id": "safe-haven-philadelphia",
       "name": "Safe Haven of Philadelphia",
       "city": "Philadelphia",
       "state": "Pennsylvania",
@@ -415,11 +247,10 @@
           "species": "cat",
           "age": "adult",
           "breed": "Sphynx",
-          "color": "gray and pink"
+          "color": "pink"
         }
       ]
     }, {
-      "id": "nashville-humane-society",
       "name": "Nashville Humane Society",
       "city": "Nashville",
       "state": "Tennessee",
@@ -442,19 +273,9 @@
           "age": "young",
           "breed": "Short Hair",
           "color": "gray"
-        }, {
-          "id": 3,
-          "name": "Eodwald",
-          "gender": "male",
-          "spayed-neutered": true,
-          "species": "dog",
-          "age": "adult",
-          "breed": "Golden Retriever",
-          "color": "yellow"
         }
       ]
     }, {
-      "id": "open-paws",
       "name": "Open Paws",
       "city": "Memphis",
       "state": "Tennessee",
@@ -470,15 +291,6 @@
           "color": "brown and white"
         }, {
           "id": 2,
-          "name": "Tubber",
-          "gender": "male",
-          "spayed-neutered": true,
-          "species": "male",
-          "age": "adult",
-          "breed": "Bulldog mix",
-          "color": "white and brown"
-        }, {
-          "id": 3,
           "name": "Lancelot",
           "gender": "male",
           "spayed-neutered": true,
@@ -489,7 +301,6 @@
         }
       ]
     }, {
-      "id": "lonely-stars-rescue",
       "name": "Lonely Stars Rescue",
       "city": "Austin",
       "state": "Texas",
@@ -503,28 +314,9 @@
           "age": "young",
           "breed": "Pit Bull mix",
           "color": "brown and white"
-        }, {
-          "id": 2,
-          "name": "Tarzan",
-          "gender": "male",
-          "spayed-neutered": true,
-          "species": "cat",
-          "age": "adult",
-          "breed": "Bengal",
-          "color": "tan and black"
-        }, {
-          "id": 3,
-          "name": "Ghandi",
-          "gender": "male",
-          "spayed-neutered": true,
-          "species": "cat",
-          "age": "elderly",
-          "breed": "Siamese",
-          "color": "white"
         }
       ]
     }, {
-      "id": "houston-animal-shelter",
       "name": "Houston Animal Shelter",
       "city": "Houston",
       "state": "Texas",
@@ -546,20 +338,10 @@
           "species": "dog",
           "age": "young",
           "breed": "medium breed mix",
-          "color": "black and white"
-        }, {
-          "id": 3,
-          "name": "Batman",
-          "gender": "male",
-          "spayed-neutered": true,
-          "species": "dog",
-          "age": "adult",
-          "breed": "medium breed mix",
           "color": "black"
         }
       ]
     }, {
-      "id": "house-of-hope",
       "name": "House of Hope",
       "city": "Salt Lake City",
       "state": "Utah",
@@ -573,28 +355,9 @@
           "age": "adult",
           "breed": "Scottish Fold",
           "color": "gray"
-        }, {
-          "id": 2,
-          "name": "Bitey",
-          "gender": "male",
-          "spayed-neutered": true,
-          "species": "cat",
-          "age": "adult",
-          "breed": "Short Hair",
-          "color": "black"
-        }, {
-          "id": 3,
-          "name": "Lizzie",
-          "gender": "female",
-          "spayed-neutered": true,
-          "species": "cat",
-          "age": "young",
-          "breed": "Long Hair",
-          "color": "black and white"
         }
       ]
     }, {
-      "id": "rise-again-animal-rescue",
       "name": "Rise Again Animal Rescue",
       "city": "Ogden",
       "state": "Utah",
@@ -616,20 +379,10 @@
           "species": "dog",
           "age": "adult",
           "breed": "Bernese Mountain Dog",
-          "color": "brown and white"
-        }, {
-          "id": 3,
-          "name": "Whiskers",
-          "gender": "female",
-          "spayed-neutered": true,
-          "species": "cat",
-          "age": "young",
-          "breed": "Short Hair",
-          "color": "gray and black"
+          "color": "brown"
         }
       ]
     }, {
-      "id": "home-again-animal-rescue",
       "name": "Home Again Animal Rescue",
       "city": "Leavenworth",
       "state": "Washington",
@@ -642,18 +395,9 @@
           "spayed-neutered": true,
           "age": "young",
           "breed": "Lab mix",
-          "color": "brown and black"
+          "color": "brown"
         }, {
           "id": 2,
-          "name": "Butterfly",
-          "gender": "female",
-          "spayed-neutered": true,
-          "species": "dog",
-          "age": "adult",
-          "breed": "Papillon",
-          "color": "brown and white"
-        }, {
-          "id": 3,
           "name": "Mandy",
           "gender": "female",
           "spayed-neutered": true,
